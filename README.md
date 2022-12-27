@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @antoniomiano
-- 👀 I’m interested in all the big changes that the digital transformation is bringing to the AEC field.
+- 👀 I’m interested in ... all the big changes that the digital transformation is bringing to the AEC field.
 - 🌱 I’m currently learning ... more about it.
 - 💞️ I’m looking to collaborate on ... data-driven-design-projects
-- 📫 How to reach me ... https://www.linkedin.com/in/antonio-miano/
+- 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/antonio-miano/
 
 <!---
 antoniomiano/antoniomiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
