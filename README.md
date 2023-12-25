@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antoniomiano
-- 👀 I’m interested in ... all the big changes that the digital transformation is bringing to the AEC field.
+- 👀 I’m interested in ... all the big changes that the digital transformation is bringing to the AECO field.
 - 🌱 I’m currently learning ... more about it.
 - 💞️ I’m looking to collaborate on ... data-driven-design-projects
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/antonio-miano/
